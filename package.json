@@ -7,8 +7,11 @@
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "mermaid": "^11.4.1",
     "vitepress": "^1.6.4",
-    "vitepress-plugin-mermaid": "^2.0.17",
-    "mermaid": "^11.4.1"
+    "vitepress-plugin-mermaid": "^2.0.17"
+  },
+  "dependencies": {
+    "markdown-it-mathjax3": "^4.3.2"
   }
 }
