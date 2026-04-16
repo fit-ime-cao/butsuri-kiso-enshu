@@ -42,15 +42,15 @@ hero:
 
 <div class="week-card locked">
   <div class="week-num">Week 05</div>
-  <div class="week-title">抗力と摩擦力</div>
-  <div class="week-tags"><span class="tag">垂直抗力</span><span class="tag">静止摩擦</span><span class="tag">動摩擦</span></div>
+  <div class="week-title">弾性力・張力・滑車</div>
+  <div class="week-tags"><span class="tag">弾性力</span><span class="tag">張力</span><span class="tag">滑車</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
 
 <div class="week-card locked">
   <div class="week-num">Week 06</div>
-  <div class="week-title">張力と弾性力</div>
-  <div class="week-tags"><span class="tag">張力</span><span class="tag">フックの法則</span><span class="tag">つり合い</span></div>
+  <div class="week-title">摩擦力</div>
+  <div class="week-tags"><span class="tag">静止摩擦</span><span class="tag">動摩擦</span><span class="tag">摩擦係数</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
 
@@ -63,7 +63,7 @@ hero:
 
 <div class="week-card locked">
   <div class="week-num">Week 08</div>
-  <div class="week-title">力のモーメントとつり合い</div>
+  <div class="week-title">力のモーメント</div>
   <div class="week-tags"><span class="tag">力のモーメント</span><span class="tag">力腕</span><span class="tag">つり合い式</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
@@ -83,21 +83,21 @@ hero:
 
 <div class="week-card locked">
   <div class="week-num">Week 10</div>
-  <div class="week-title">運動方程式</div>
-  <div class="week-tags"><span class="tag">F=ma</span><span class="tag">連立方程式</span><span class="tag">滑車</span></div>
+  <div class="week-title">等速度運動と等加速度運動</div>
+  <div class="week-tags"><span class="tag">等速度運動</span><span class="tag">等加速度運動</span><span class="tag">公式</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
 
 <div class="week-card locked">
   <div class="week-num">Week 11</div>
-  <div class="week-title">等速度・等加速度運動</div>
-  <div class="week-tags"><span class="tag">等加速度の公式</span><span class="tag">初速度</span></div>
+  <div class="week-title">運動方程式</div>
+  <div class="week-tags"><span class="tag">F=ma</span><span class="tag">力のつり合い</span><span class="tag">運動方程式</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
 
 <div class="week-card locked">
   <div class="week-num">Week 12</div>
-  <div class="week-title">落下運動と放物運動</div>
+  <div class="week-title">落下・投げ上げ・放物運動</div>
   <div class="week-tags"><span class="tag">自由落下</span><span class="tag">投げ上げ</span><span class="tag">放物運動</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
@@ -110,8 +110,8 @@ hero:
 
 <div class="week-card locked">
   <div class="week-num">Week 13</div>
-  <div class="week-title">総復習・演習</div>
-  <div class="week-tags"><span class="tag">全範囲</span><span class="tag">試験対策</span></div>
+  <div class="week-title">まとめ</div>
+  <div class="week-tags"><span class="tag">全範囲</span><span class="tag">総復習</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
 
