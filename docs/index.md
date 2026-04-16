@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: 第2週から始める →
       link: /weeks/week-02
+    - theme: alt
+      text: Week 02 PDFを開く
+      link: /butsuri-kiso-enshu/slides/week02.pdf
 ---
 
 <div class="course-index">

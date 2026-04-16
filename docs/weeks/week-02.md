@@ -2,6 +2,15 @@
 
 > ⏱️ 読了時間：約30分 | 📝 演習問題：15問 | 🎯 試験対応：単位換算の4パターンを完全習得
 
+## 授業スライドPDF
+
+- [ブラウザで開く](/slides/week02.pdf)
+- [ダウンロードする](/slides/week02.pdf)
+
+<iframe src="/butsuri-kiso-enshu/slides/week02.pdf#view=FitH" width="100%" height="720" style="border: 1px solid #dcdfe6; border-radius: 12px; background: #fff;"></iframe>
+
+> PDFが表示されない場合は、上の「ブラウザで開く」から別タブで見てください。
+
 ## 学習目標
 
 この週の授業を終えると、以下のことができるようになります：
