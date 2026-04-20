@@ -26,12 +26,12 @@ hero:
   <div class="week-status open">✅ 公開中</div>
 </a>
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-03.html" class="week-card available">
   <div class="week-num">Week 03</div>
   <div class="week-title">力と質量、密度</div>
   <div class="week-tags"><span class="tag">密度</span><span class="tag">重力</span><span class="tag">質量 vs 重さ</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
 <div class="week-card locked">
   <div class="week-num">Week 04</div>
