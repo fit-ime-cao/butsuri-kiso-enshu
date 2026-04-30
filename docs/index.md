@@ -33,12 +33,12 @@ hero:
   <div class="week-status open">✅ 公開中</div>
 </a>
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-04.html" class="week-card available">
   <div class="week-num">Week 04</div>
   <div class="week-title">力の合成と分解</div>
   <div class="week-tags"><span class="tag">ベクトル</span><span class="tag">三角関数</span><span class="tag">合力</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
 <div class="week-card locked">
   <div class="week-num">Week 05</div>
