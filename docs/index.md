@@ -40,17 +40,17 @@ hero:
   <div class="week-status open">✅ 公開中</div>
 </a>
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-05.html" class="week-card available">
   <div class="week-num">Week 05</div>
-  <div class="week-title">弾性力・張力・滑車</div>
-  <div class="week-tags"><span class="tag">弾性力</span><span class="tag">張力</span><span class="tag">滑車</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-title">抗力と摩擦力</div>
+  <div class="week-tags"><span class="tag">垂直抗力</span><span class="tag">静止摩擦</span><span class="tag">動摩擦</span></div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
 <div class="week-card locked">
   <div class="week-num">Week 06</div>
-  <div class="week-title">摩擦力</div>
-  <div class="week-tags"><span class="tag">静止摩擦</span><span class="tag">動摩擦</span><span class="tag">摩擦係数</span></div>
+  <div class="week-title">弾性力・張力・滑車</div>
+  <div class="week-tags"><span class="tag">弾性力</span><span class="tag">張力</span><span class="tag">滑車</span></div>
   <div class="week-status">🔒 準備中</div>
 </div>
 

@@ -23,8 +23,8 @@ export default withMermaid({
             { text: '第2週：単位系と単位換算', link: '/weeks/week-02' },
             { text: '第3週：力と質量、密度', link: '/weeks/week-03' },
             { text: '第4週：力の合成と分解', link: '/weeks/week-04' },
-            { text: '🔒 第5週：弾性力・張力・滑車' },
-            { text: '🔒 第6週：摩擦力' },
+            { text: '第5週：抗力と摩擦力', link: '/weeks/week-05' },
+            { text: '🔒 第6週：弾性力・張力・滑車' },
             { text: '🔒 第7週：剛体と重心' },
             { text: '🔒 第8週：力のモーメント' },
           ]
