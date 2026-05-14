@@ -4,10 +4,10 @@
 
 ## 授業スライドPDF
 
-::: warning 🚧 確認中
-この週のPDFは現在差し替え準備中です。
-正式版を確認してから公開するため、いまはページ内表示を止めています。
-::: 
+- [ブラウザで開く](/slides/week05.pdf)
+- [ダウンロードする](/slides/week05.pdf)
+
+<iframe src="/butsuri-kiso-enshu/slides/week05.pdf#view=FitH" width="100%" height="720" style="border: 1px solid #dcdfe6; border-radius: 12px; background: #fff;"></iframe>
 
 ## 学習目標
 
