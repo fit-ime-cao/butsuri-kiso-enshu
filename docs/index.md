@@ -54,12 +54,12 @@ hero:
   <div class="week-status open">✅ 公開中</div>
 </a>
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-07.html" class="week-card available">
   <div class="week-num">Week 07</div>
   <div class="week-title">剛体と重心</div>
-  <div class="week-tags"><span class="tag">重心</span><span class="tag">剛体</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-tags"><span class="tag">重心</span><span class="tag">剛体</span><span class="tag">複合図形</span></div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
 <div class="week-card locked">
   <div class="week-num">Week 08</div>
