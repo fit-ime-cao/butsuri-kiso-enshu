@@ -4,10 +4,8 @@
 
 ## 授業スライドPDF
 
-- [ブラウザで開く](/slides/week03.pdf)
-- [ダウンロードする](/slides/week03.pdf)
-
-<iframe src="/butsuri-kiso-enshu/slides/week03.pdf#view=FitH" width="100%" height="720" style="border: 1px solid #dcdfe6; border-radius: 12px; background: #fff;"></iframe>
+- <a href="../slides/week03.pdf" target="_blank" rel="noopener">ブラウザで開く</a>
+- <a href="../slides/week03.pdf" download>ダウンロードする</a>
 
 ## 学習目標
 

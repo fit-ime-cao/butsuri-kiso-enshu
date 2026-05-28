@@ -4,12 +4,8 @@
 
 ## 授業スライドPDF
 
-- [ブラウザで開く](/slides/week02.pdf)
-- [ダウンロードする](/slides/week02.pdf)
-
-<iframe src="/butsuri-kiso-enshu/slides/week02.pdf#view=FitH" width="100%" height="720" style="border: 1px solid #dcdfe6; border-radius: 12px; background: #fff;"></iframe>
-
-> PDFが表示されない場合は、上の「ブラウザで開く」から別タブで見てください。
+- <a href="../slides/week02.pdf" target="_blank" rel="noopener">ブラウザで開く</a>
+- <a href="../slides/week02.pdf" download>ダウンロードする</a>
 
 ## 学習目標
 
