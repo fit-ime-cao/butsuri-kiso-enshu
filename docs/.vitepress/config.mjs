@@ -26,7 +26,7 @@ export default withMermaid({
             { text: '第5週：抗力と摩擦力', link: '/weeks/week-05' },
             { text: '第6週：弾性力・張力・滑車', link: '/weeks/week-06' },
             { text: '第7週：剛体と重心', link: '/weeks/week-07' },
-            { text: '🔒 第8週：力のモーメント' },
+            { text: '第8週：力のモーメントとつり合い', link: '/weeks/week-08' },
           ]
         },
         {
