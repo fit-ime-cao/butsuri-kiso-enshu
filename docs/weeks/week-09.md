@@ -4,12 +4,10 @@
 
 ## 授業資料
 
-| 種類 | ファイル |
-|---|---|
-| 授業スライド | [PDFで見る](/slides/week09.pdf) / [PPTXをダウンロード](/slides/week09.pptx) |
-| 第2〜8週 総復習テスト | [問題PDF](/handouts/week09-review-test.pdf) / [解答PDF](/handouts/week09-review-test-answers.pdf) |
-| 小テスト | [問題PDF](/handouts/week09-small-test.pdf) / [解答PDF](/handouts/week09-small-test-answers.pdf) |
-| 小演習 | [問題PDF](/handouts/week09-exercises.pdf) / [解答PDF](/handouts/week09-exercises-answers.pdf) |
+::: tip 授業資料について
+このページでは、第9週「運動の表し方」の要点・流れ・例題・確認事項を、そのまま見返せる形で整理しています。  
+配布用PDFやPPTXのリンクは出さず、Webページだけで復習できる構成にしています。
+:::
 
 ::: tip 準備メモ
 総復習テストと小テストを入れるため、説明は「傾き」と「面積」に絞る。  
