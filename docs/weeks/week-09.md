@@ -14,11 +14,6 @@
 例題は代表例だけ扱い、残りは演習確認に回す。
 :::
 
-<figure class="week-figure">
-  <img src="/images/week09/contact-sheet.jpg" alt="第9週 Bクラス 授業スライド一覧" loading="lazy">
-  <figcaption>第9週 Bクラス授業スライド全24ページの一覧。</figcaption>
-</figure>
-
 ## 学習目標
 
 この週の授業を終えると、以下のことができるようになります：
