@@ -176,7 +176,7 @@ $$
 小演習の v-t図は、次の点を直線で結んだグラフです。
 
 $$
-(0,0)\rightarrow(3,6)\rightarrow(6,6)\rightarrow(8,-2)\rightarrow(10,-2)
+(0,0)\rightarrow(3,6)\rightarrow(6,6)\rightarrow(8,-2)\rightarrow(10,0)
 $$
 
 主な答え：
