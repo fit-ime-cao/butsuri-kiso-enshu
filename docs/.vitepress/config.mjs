@@ -33,7 +33,7 @@ export default withMermaid({
           text: '第2部：運動学',
           collapsed: false,
           items: [
-            { text: '🔒 第9週：運動の表し方' },
+            { text: '第9週：運動の表し方', link: '/weeks/week-09' },
             { text: '🔒 第10週：等速度運動と等加速度運動' },
             { text: '🔒 第11週：運動方程式' },
             { text: '🔒 第12週：落下・投げ上げ・放物運動' },
@@ -78,6 +78,7 @@ export default withMermaid({
 
   markdown: { math: true, lineNumbers: true },
   lastUpdated: true,
+  ignoreDeadLinks: [/^\/slides\/.*\.pptx$/],
   mermaid: {},
   mermaidPlugin: { class: "mermaid" }
 })
