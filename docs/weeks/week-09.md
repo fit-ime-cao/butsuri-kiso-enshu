@@ -116,6 +116,52 @@ $v>0$ の部分は正の変位、$v<0$ の部分は負の変位。
 
 ---
 
+## 5. 例題
+
+### 例題1：x-t図から速度
+
+次の x-t 図を見て、$t=0\ \mathrm{s}$ から $t=4\ \mathrm{s}$ の速度を求めなさい。
+
+<figure class="week-figure">
+  <img src="/images/week09/xt-example.svg" alt="x-t図の例題グラフ" loading="lazy">
+  <figcaption>x-t図の傾きから速度を読む。</figcaption>
+</figure>
+
+::: details 解答を見る
+$$
+v=\frac{8-0}{4-0}=2.0\ \mathrm{m/s}
+$$
+:::
+
+### 例題2：v-t図から加速度
+
+次の v-t 図を見て、$t=0\ \mathrm{s}$ から $t=3\ \mathrm{s}$ の加速度を求めなさい。
+
+<figure class="week-figure">
+  <img src="/images/week09/vt-example.svg" alt="v-t図の例題グラフ" loading="lazy">
+  <figcaption>v-t図の傾きから加速度、面積から変位を読む。</figcaption>
+</figure>
+
+::: details 解答を見る
+$$
+a=\frac{6-0}{3-0}=2.0\ \mathrm{m/s^2}
+$$
+:::
+
+### 例題3：v-t図から変位
+
+上の v-t 図について、$t=0\ \mathrm{s}$ から $t=6\ \mathrm{s}$ の変位を求めなさい。
+
+::: details 解答を見る
+三角形の面積と長方形の面積を足して、
+
+$$
+\Delta x=\frac12\times3\times6+3\times6=27\ \mathrm{m}
+$$
+:::
+
+---
+
 ## 7. まとめ
 
 ::: tip 今日の要点
