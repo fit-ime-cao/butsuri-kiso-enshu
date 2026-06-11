@@ -15,7 +15,7 @@
 :::
 
 <figure class="week-figure">
-  <img src="../images/week09/contact-sheet.jpg" alt="第9週 Bクラス 授業スライド一覧" loading="lazy">
+  <img src="/images/week09/contact-sheet.jpg" alt="第9週 Bクラス 授業スライド一覧" loading="lazy">
   <figcaption>第9週 Bクラス授業スライド全24ページの一覧。</figcaption>
 </figure>
 
