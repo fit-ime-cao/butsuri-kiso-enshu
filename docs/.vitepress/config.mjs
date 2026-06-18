@@ -30,11 +30,11 @@ export default withMermaid({
           ]
         },
         {
-          text: '第2部：運動学',
+          text: '第2部：運動と運動方程式',
           collapsed: false,
           items: [
             { text: '第9週：運動の表し方', link: '/weeks/week-09' },
-            { text: '🔒 第10週：等速度運動と等加速度運動' },
+            { text: '第10週：運動の法則', link: '/weeks/week-10' },
             { text: '🔒 第11週：運動方程式' },
             { text: '🔒 第12週：落下・投げ上げ・放物運動' },
           ]

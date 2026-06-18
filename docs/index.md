@@ -70,23 +70,23 @@ hero:
 
 </div>
 
-### 第2部：運動学
+### 第2部：運動と運動方程式
 
 <div class="week-grid">
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-09.html" class="week-card available">
   <div class="week-num">Week 09</div>
   <div class="week-title">運動の表し方</div>
   <div class="week-tags"><span class="tag">v-tグラフ</span><span class="tag">加速度</span><span class="tag">変位</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-10.html" class="week-card available">
   <div class="week-num">Week 10</div>
-  <div class="week-title">等速度運動と等加速度運動</div>
-  <div class="week-tags"><span class="tag">等速度運動</span><span class="tag">等加速度運動</span><span class="tag">公式</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-title">運動の法則</div>
+  <div class="week-tags"><span class="tag">F=ma</span><span class="tag">斜面</span><span class="tag">摩擦を含む運動</span></div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
 <div class="week-card locked">
   <div class="week-num">Week 11</div>
