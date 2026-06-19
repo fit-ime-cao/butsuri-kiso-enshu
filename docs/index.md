@@ -88,12 +88,12 @@ hero:
   <div class="week-status open">✅ 公開中</div>
 </a>
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-11.html" class="week-card available">
   <div class="week-num">Week 11</div>
-  <div class="week-title">運動方程式</div>
-  <div class="week-tags"><span class="tag">F=ma</span><span class="tag">力のつり合い</span><span class="tag">運動方程式</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-title">等速度運動と等加速度運動</div>
+  <div class="week-tags"><span class="tag">等速度運動</span><span class="tag">等加速度運動</span><span class="tag">運動公式</span></div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
 <div class="week-card locked">
   <div class="week-num">Week 12</div>
