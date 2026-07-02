@@ -95,12 +95,12 @@ hero:
   <div class="week-status open">✅ 公開中</div>
 </a>
 
-<div class="week-card locked">
+<a href="/butsuri-kiso-enshu/weeks/week-12.html" class="week-card available">
   <div class="week-num">Week 12</div>
   <div class="week-title">落下・投げ上げ・放物運動</div>
   <div class="week-tags"><span class="tag">自由落下</span><span class="tag">投げ上げ</span><span class="tag">放物運動</span></div>
-  <div class="week-status">🔒 準備中</div>
-</div>
+  <div class="week-status open">✅ 公開中</div>
+</a>
 
 </div>
 
